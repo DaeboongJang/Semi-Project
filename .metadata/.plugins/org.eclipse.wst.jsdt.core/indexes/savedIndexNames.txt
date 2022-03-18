@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\workspace_photofolio\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+686951678.index
+3495996333.index
+3176618064.index
+435914146.index
+1969453271.index
+2681665615.index
